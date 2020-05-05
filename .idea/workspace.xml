@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5c4a401d-d8b0-4386-ae57-8016c739959d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TesteCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Teste.java" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,57 +36,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Carro.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-              <folding>
-                <element signature="e#625#626#0" expanded="true" />
-                <element signature="e#656#657#0" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#723#724#0" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
-                <element signature="e#789#790#0" expanded="true" />
-                <element signature="e#832#833#0" expanded="true" />
-                <element signature="e#868#869#0" expanded="true" />
-                <element signature="e#909#910#0" expanded="true" />
-                <element signature="e#952#953#0" expanded="true" />
-                <element signature="e#994#995#0" expanded="true" />
-                <element signature="e#1038#1039#0" expanded="true" />
-                <element signature="e#1071#1072#0" expanded="true" />
-                <element signature="e#1105#1106#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Teste.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Moto.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-              <folding>
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -77,69 +47,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/Moto.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Carro.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Teste.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="203" />
-    <option name="width" value="1440" />
-    <option name="height" value="820" />
-  </component>
+  <component name="ProjectId" id="1bV0TpxZy9Ad9BqFtk985bP0GOa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TesteYaman" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TesteYaman" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TesteYaman" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TesteYaman" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TesteYaman" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TesteYaman" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TesteYaman" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TesteYaman" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$ANDROID_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
@@ -147,17 +64,94 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager" selected="JUnit.TesteCarro.testeCor">
+    <configuration name="TesteCarro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TesteYaman" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TesteCarro" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteCarro.testeAcelera" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TesteYaman" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TesteCarro" />
+      <option name="METHOD_NAME" value="testeAcelera" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteCarro.testeCor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TesteYaman" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TesteCarro" />
+      <option name="METHOD_NAME" value="testeCor" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteCarro.testeLigado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TesteYaman" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TesteCarro" />
+      <option name="METHOD_NAME" value="testeLigado" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteCarro.testeMarcha" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TesteYaman" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TesteCarro" />
+      <option name="METHOD_NAME" value="testeMarcha" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Teste" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TesteCarro.testeCor" />
+      <item itemvalue="JUnit.TesteCarro" />
+      <item itemvalue="JUnit.TesteCarro.testeLigado" />
+      <item itemvalue="JUnit.TesteCarro.testeMarcha" />
+      <item itemvalue="JUnit.TesteCarro.testeAcelera" />
+    </list>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="JUnit.TesteCarro.testeCor" />
+        <item itemvalue="JUnit.TesteCarro.testeMarcha" />
+        <item itemvalue="JUnit.TesteCarro.testeAcelera" />
+        <item itemvalue="JUnit.TesteCarro" />
+        <item itemvalue="JUnit.TesteCarro.testeLigado" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -172,82 +166,74 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Moto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Carro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-          <folding>
-            <element signature="e#625#626#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#832#833#0" expanded="true" />
-            <element signature="e#868#869#0" expanded="true" />
-            <element signature="e#909#910#0" expanded="true" />
-            <element signature="e#952#953#0" expanded="true" />
-            <element signature="e#994#995#0" expanded="true" />
-            <element signature="e#1038#1039#0" expanded="true" />
-            <element signature="e#1071#1072#0" expanded="true" />
-            <element signature="e#1105#1106#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Teste.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="485" y="221" key="#Configure_Path_Variables" timestamp="1588701973151">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="485" y="221" key="#Configure_Path_Variables/0.0.1366.738@0.0.1366.738" timestamp="1588701973151" />
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588702843541">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1588702843541" />
+    <state x="92" y="92" width="1182" height="554" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1588709417603">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.738@0.0.1366.738" timestamp="1588709417603" />
+    <state x="488" y="53" key="#com.intellij.ide.util.MemberChooser" timestamp="1588709364955">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="53" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1588709364955" />
+    <state x="412" y="159" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588702817502">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="412" y="159" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1588702817502" />
+    <state width="1323" height="139" key="GridCell.Tab.0.bottom" timestamp="1588709163297">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="139" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588709163297" />
+    <state width="1323" height="139" key="GridCell.Tab.0.center" timestamp="1588709163296">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="139" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1588709163296" />
+    <state width="1323" height="139" key="GridCell.Tab.0.left" timestamp="1588709163296">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="139" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1588709163296" />
+    <state width="1323" height="139" key="GridCell.Tab.0.right" timestamp="1588709163296">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="139" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1588709163296" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1588708771183">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588708771183" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1588708771183">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1588708771183" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1588708771183">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1588708771183" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1588708771183">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1588708771183" />
+    <state x="346" y="59" key="search.everywhere.popup" timestamp="1588709348361">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1588709348361" />
   </component>
   <component name="masterDetails">
     <states>
