@@ -16,22 +16,22 @@ public class TesteCarro {
 
     @Test
     public void testeCor(){
-        Assertions.assertEquals("Preto",fusca.getCor(),"O carro não é Amarelo");
+        Assertions.assertEquals("Preto",fusca.getCor(),"A cor não é a esperada.");
     }
 
     @Test
     public void testeAcelera(){
-        Assertions.assertEquals(90,fusca.getVelocidadeAtual(),"O carro não é Amarelo");
+        Assertions.assertEquals(90,fusca.getVelocidadeAtual(),"A velocidade não é a esperada.");
     }
 
     @Test
     public void testeLigado(){
-        Assertions.assertEquals(true,fusca.getLigado(),"O carro foi desligado");
+        Assertions.assertEquals(true,fusca.getLigado(),"O carro foi desligado.");
     }
 
     @Test
     public void testeMarcha(){
-        Assertions.assertEquals(3,fusca.pegaMarcha(),"O carro não está na marcha testada");
+        Assertions.assertEquals(3,fusca.pegaMarcha(),"O carro não está na marcha esperada.");
     }
 
     /*public static void main(String[] args){

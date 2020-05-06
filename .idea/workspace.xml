@@ -22,8 +22,11 @@
     <list default="true" id="5c4a401d-d8b0-4386-ae57-8016c739959d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Moto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Moto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TesteCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TesteCarro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/TesteMoto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TesteMoto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Moto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Moto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TesteCarro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TesteCarro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TesteMoto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TesteMoto.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,19 +67,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TesteCarro.testeCor">
-    <configuration name="TesteCarro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TesteYaman" />
-      <useClassPathOnly />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TesteCarro" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="PARAMETERS" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TesteMoto">
     <configuration name="TesteCarro.testeAcelera" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TesteYaman" />
       <useClassPathOnly />
@@ -89,11 +80,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteCarro.testeCor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TesteMoto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TesteYaman" />
       <useClassPathOnly />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TesteCarro" />
+      <option name="MAIN_CLASS_NAME" value="TesteMoto" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteMoto.testeCor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TesteYaman" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TesteMoto" />
       <option name="METHOD_NAME" value="testeCor" />
       <option name="TEST_OBJECT" value="method" />
       <option name="PARAMETERS" value="" />
@@ -101,24 +104,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteCarro.testeLigado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TesteMoto.testeFabricante" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TesteYaman" />
       <useClassPathOnly />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TesteCarro" />
-      <option name="METHOD_NAME" value="testeLigado" />
+      <option name="MAIN_CLASS_NAME" value="TesteMoto" />
+      <option name="METHOD_NAME" value="testeFabricante" />
       <option name="TEST_OBJECT" value="method" />
       <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteCarro.testeMarcha" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TesteMoto.testeParar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TesteYaman" />
       <useClassPathOnly />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TesteCarro" />
-      <option name="METHOD_NAME" value="testeMarcha" />
+      <option name="MAIN_CLASS_NAME" value="TesteMoto" />
+      <option name="METHOD_NAME" value="testeParar" />
       <option name="TEST_OBJECT" value="method" />
       <option name="PARAMETERS" value="" />
       <method v="2">
@@ -137,19 +140,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TesteCarro.testeCor" />
-      <item itemvalue="JUnit.TesteCarro" />
-      <item itemvalue="JUnit.TesteCarro.testeLigado" />
-      <item itemvalue="JUnit.TesteCarro.testeMarcha" />
+      <item itemvalue="JUnit.TesteMoto.testeParar" />
+      <item itemvalue="JUnit.TesteMoto.testeCor" />
       <item itemvalue="JUnit.TesteCarro.testeAcelera" />
+      <item itemvalue="JUnit.TesteMoto.testeFabricante" />
+      <item itemvalue="JUnit.TesteMoto" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TesteCarro.testeCor" />
-        <item itemvalue="JUnit.TesteCarro.testeMarcha" />
+        <item itemvalue="JUnit.TesteMoto" />
+        <item itemvalue="JUnit.TesteMoto.testeFabricante" />
         <item itemvalue="JUnit.TesteCarro.testeAcelera" />
-        <item itemvalue="JUnit.TesteCarro" />
-        <item itemvalue="JUnit.TesteCarro.testeLigado" />
+        <item itemvalue="JUnit.TesteMoto.testeCor" />
+        <item itemvalue="JUnit.TesteMoto.testeParar" />
       </list>
     </recent_temporary>
   </component>
@@ -171,11 +174,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="485" y="221" key="#Configure_Path_Variables" timestamp="1588701973151">
@@ -202,22 +218,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="412" y="159" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1588702817502" />
-    <state width="1323" height="227" key="GridCell.Tab.0.bottom" timestamp="1588736638527">
+    <state width="1323" height="132" key="GridCell.Tab.0.bottom" timestamp="1588776208084">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="227" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588736638527" />
-    <state width="1323" height="227" key="GridCell.Tab.0.center" timestamp="1588736638527">
+    <state width="1323" height="132" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588776208084" />
+    <state width="1323" height="132" key="GridCell.Tab.0.center" timestamp="1588776208084">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="227" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1588736638527" />
-    <state width="1323" height="227" key="GridCell.Tab.0.left" timestamp="1588736638527">
+    <state width="1323" height="132" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1588776208084" />
+    <state width="1323" height="132" key="GridCell.Tab.0.left" timestamp="1588776208084">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="227" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1588736638527" />
-    <state width="1323" height="227" key="GridCell.Tab.0.right" timestamp="1588736638527">
+    <state width="1323" height="132" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1588776208084" />
+    <state width="1323" height="132" key="GridCell.Tab.0.right" timestamp="1588776208084">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="227" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1588736638527" />
+    <state width="1323" height="132" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1588776208084" />
     <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1588736638527">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

@@ -71,9 +71,11 @@ public class Moto {
 
     // ​acelerar e parar
     public void acelerar(double qtd){
-
+        double velocidadeNova = this.velocidadeAtual + qtd;
+        this.velocidadeAtual = (velocidadeNova < this.velocidadeMaxima)?velocidadeNova:this.velocidadeAtual;
     }
-    public void parar(){
 
+    public void parar(){
+        this.velocidadeAtual = 0;
     }
 }
