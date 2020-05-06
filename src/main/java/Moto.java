@@ -52,13 +52,7 @@ public class Moto {
     }
 
     //construtor
-    public Moto (String cor,
-                 String fabricante,
-                 int cilindradas,
-                 int qtdMarchas,
-                 int ano,
-                 boolean automatica,
-                 double velocidadeMaxima){
+    public Moto (String cor,String fabricante,int cilindradas,int qtdMarchas,int ano,boolean automatica,double velocidadeMaxima){
         this.cor = cor;
         this.fabricante = fabricante;
         this.cilindradas = cilindradas;
@@ -72,7 +66,7 @@ public class Moto {
     // ​acelerar e parar
     public void acelerar(double qtd){
         double velocidadeNova = this.velocidadeAtual + qtd;
-        this.velocidadeAtual = (velocidadeNova < this.velocidadeMaxima)?velocidadeNova:this.velocidadeAtual;
+        this.velocidadeAtual = (velocidadeNova < this.velocidadeMaxima)? velocidadeNova: this.velocidadeAtual;
     }
 
     public void parar(){

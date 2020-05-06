@@ -54,21 +54,11 @@ public class Carro {
     //acelera uma certa quantidade
     public void acelera(double quantidade) {
         double velocidadeNova = this.velocidadeAtual + quantidade;
-        //if (velocidadeNova < this.velocidadeMaxima){this.velocidadeAtual = velocidadeNova;}
-        this.velocidadeAtual = (velocidadeNova < this.velocidadeMaxima)?velocidadeNova:this.velocidadeAtual;
+        this.velocidadeAtual = (velocidadeNova < this.velocidadeMaxima)? velocidadeNova: this.velocidadeAtual;
     }
 
     //devolve a marcha do carro
     public Integer pegaMarcha() {
-        /*if (this.velocidadeAtual < 0.0) {
-            return -1;
-        }
-        if (this.velocidadeAtual < 40) {
-            return 1;
-        }
-        if (this.velocidadeAtual < 80) {
-            return 2;
-        }*/
-        return (this.velocidadeAtual<0.0)?-1:(this.velocidadeAtual<40)?1:(this.velocidadeAtual<80)?2:3;
+        return (this.velocidadeAtual<0.0)? -1: (this.velocidadeAtual<40)? 1: (this.velocidadeAtual<80)? 2: 3;
     }
 }

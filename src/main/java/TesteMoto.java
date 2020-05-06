@@ -7,7 +7,7 @@ public class TesteMoto {
 
     @BeforeAll
     public static void iniciaTudo(){
-        bis = new Moto("Preto","Honda",2,4,2020,false,100);
+        bis = new Moto("Preto","Honda",2,3,2020,false,100);
     }
 
     @Test
@@ -25,12 +25,12 @@ public class TesteMoto {
 
     @Test
     public void testeCor(){
-        Assertions.assertEquals("Preto",bis.getCor(),"A cor não é a esperada.");
+        bis.setCor("Laranja");
+        Assertions.assertEquals("Laranja",bis.getCor(),"A cor não é a esperada.");
     }
 
     @Test
     public void testeFabricante(){
-        Assertions.assertEquals("Honda",bis.getFabricante(),"O Fabricante não é a esperada.");
+        Assertions.assertEquals("Honda",bis.getFabricante(),"O Fabricante não é o esperado.");
     }
-
 }

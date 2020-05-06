@@ -7,7 +7,7 @@ public class TesteCarro {
 
     @BeforeAll
     public static void iniciaTudo(){
-        fusca = new Carro("Preto","Beetle ",110);
+        fusca = new Carro("Preto","Beetle",110);
         if (fusca.ligaedesliga()) {
             fusca.acelera(60);
         }
@@ -26,7 +26,7 @@ public class TesteCarro {
 
     @Test
     public void testeLigado(){
-        Assertions.assertEquals(true,fusca.getLigado(),"O carro foi desligado.");
+        Assertions.assertEquals(true,fusca.getLigado(),"O carro nã está no estado esperado.");
     }
 
     @Test
